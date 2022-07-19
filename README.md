@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-[![check-code](https://github.com/awbranch/github-actions-demo/actions/workflows/check-code.yml/badge.svg?event=push)](https://github.com/awbranch/github-actions-demo/actions/workflows/check-code.yml)
+[![check-code](https://github.com/awbranch/github-actions-demo/actions/workflows/check-code.yml/badge.svg)](https://github.com/awbranch/github-actions-demo/actions/workflows/check-code.yml)
 
 ## Getting Started
 
