@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Github Actions Demo
+          Github Actions Demo 2
         </h1>
 
         <Image src="/casper.jpg" alt="Casper" width="100%"/>
