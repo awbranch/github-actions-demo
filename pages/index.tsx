@@ -17,7 +17,7 @@ const Home: NextPage = () => {
           Github Actions Demo 2
         </h1>
 
-        <Image src="/casper.jpg" alt="Casper" width="100%"/>
+        <Image src="/casper.jpg" width="100%"/>
 
       </main>
 
